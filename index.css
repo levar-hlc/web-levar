@@ -73,7 +73,7 @@ img{display: block;}
 }
 .banner .container{height: 400px;}
 .arrow-l,.arrow-r{
-	background: url(../images/arrow-l.png) no-repeat;
+	background: url(arrow-l.png) no-repeat;
 	width: 39px;
 	height: 74px;
 	position: absolute;
