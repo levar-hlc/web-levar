@@ -162,7 +162,7 @@ img{display: block;}
 }
 .subject li.subject-2{background-image: url(risk.png);}
 .subject li.subject-3{background-image: url(safe.png);}
-.subject li.subject-4{background-image: url(../images/income.png);}
+.subject li.subject-4{background-image: url(income.png);}
 .subject li h1{
 	font: normal 16px/26px 微软雅黑；
 }
