@@ -83,7 +83,7 @@ img{display: block;}
 }
 .arrow-l{left: -39px;}
 .arrow-r{
-	background: url(../images/arrow-r.png) no-repeat;
+	background: url(arrow-r.png) no-repeat;
 	right: -39px;
 }
 .banner ol{
@@ -144,7 +144,7 @@ img{display: block;}
 /*新闻*/
 .Nav p.navr{
 	padding:16px 0;
-	background: url(../images/new.png) no-repeat 288px center;
+	background: url(new.png) no-repeat 288px center;
 	font-size: 14px;
 	border-bottom: 1px solid #ccc;
 }
