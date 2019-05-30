@@ -154,14 +154,14 @@ img{display: block;}
 	padding:50px 0;
 }
 .subject li{
-	background: url(../images/profession.png) no-repeat center top;
+	background: url(profession.png) no-repeat center top;
 	float: left;
 	width: 250px;
 	text-align: center;
 	padding-top: 135px;
 }
-.subject li.subject-2{background-image: url(../images/risk.png);}
-.subject li.subject-3{background-image: url(../images/safe.png);}
+.subject li.subject-2{background-image: url(risk.png);}
+.subject li.subject-3{background-image: url(safe.png);}
 .subject li.subject-4{background-image: url(../images/income.png);}
 .subject li h1{
 	font: normal 16px/26px 微软雅黑；
