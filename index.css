@@ -10,7 +10,7 @@
 	float: left;
 }
 .logo h1 a{
-	background: url(../images/logo.png) no-repeat;
+	background: url(logo.png) no-repeat;
 	width: 309px;
 	height: 63px;
 	display: inline-block;
